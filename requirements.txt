@@ -71,6 +71,7 @@ gql==3.5.0
 graphql-core==3.2.3
 greenlet==3.1.1
 grpcio==1.65.5
+gunicorn
 h11==0.14.0
 h5py==3.11.0
 halo==0.0.31
