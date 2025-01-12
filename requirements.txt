@@ -1,6 +1,4 @@
 openai==0.28.0
-langchain
-langchain-openai
 faiss-cpu
 python-dotenv
 flask
