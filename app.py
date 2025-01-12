@@ -8,19 +8,16 @@ from langchain.vectorstores import FAISS
 from langchain.embeddings import OpenAIEmbeddings
 
 
-# Load environment variables from .env file
-load_dotenv()
-
 # Initialize Flask app
 app = Flask(__name__)
 CORS(app)  # Enable CORS for cross-origin requests
 
 # Retrieve configurations from environment variables
-API_KEY = os.getenv("OPENAI_API_KEY")
-INDEX_FOLDER = os.getenv("INDEX_FOLDER", "faiss_index")
-METADATA_FILE = os.getenv("METADATA_FILE", os.path.join(INDEX_FOLDER, "metadata.json"))
-MAX_HISTORY = int(os.getenv("MAX_HISTORY", 10))
-K = int(os.getenv("K", 5))
+API_KEY = "sk-svcacct-WCXvqS_yg8WxfOt8X-PcbS9I8zwqclC1ZEABPLWS2iNsn5YLyugT6Z_rDszXV5a2T3BlbkFJ_Y64yt49lKiuslf1z7Wh_tTAIy3d3jdJWDpptcssfbwfbY48Aq7OQ82Png2X-MoA"
+INDEX_FOLDER = "faiss_index"
+METADATA_FILE = "faiss_index/metadata.json"
+MAX_HISTORY = 10
+K = 5
 
 # Validate API Key
 if not API_KEY:
