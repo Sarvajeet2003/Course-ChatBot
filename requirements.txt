@@ -1,7 +1,7 @@
-Flask
-Flask-Cors
-python-dotenv
-openai
-langchain
+langchain>=0.0.119
+langchain-openai
 faiss-cpu
+python-dotenv
+flask
+flask-cors
 gunicorn
