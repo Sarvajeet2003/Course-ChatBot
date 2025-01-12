@@ -2,8 +2,8 @@ import json
 from flask import Flask, render_template, request, jsonify
 from flask_cors import CORS
 import openai
-from langchain.vectorstores import FAISS
-from langchain.embeddings import OpenAIEmbeddings
+from langchain_community.vectorstores import FAISS
+from langchain_community.embeddings import OpenAIEmbeddings
 
 # Initialize Flask app
 app = Flask(__name__)
