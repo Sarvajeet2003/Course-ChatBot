@@ -1,0 +1,363 @@
+1 
+ 
+Regulations for the B.Tech. in Computer Science and Artificial 
+Intelligence (CSAI) Program 
+1. Preamble 
+ 
+Artificial Intelligence (AI) has become an integral part of technology in our daily lives, driving 
+to office, searching for a restaurant, getting news updates, and recommendations on social media 
+are all using AI. With increase in usage, there is a significant requirement of researchers who can 
+understand AI and build AI technologies. This program will provide students an opportunity to 
+learn both foundational and experimental components of AI and Machine Learning. A student 
+completing this program will be able to undertake industry careers involving innovation and 
+problem solving using Artificial Intelligence (AI) and Machine Learning (ML) technolog ies and 
+research careers in AI, ML, and, in general, Computer Science areas. Along with courses that 
+provide specialization in AI, students will also have option to explore applied domains such as 
+computer vision, natural language processing, robotics, and autonomous systems as well as other 
+interdisciplinary areas such as neuroscience, edge computing, and Internet of Things. 
+ 
+Overall objectives of the B.Tech. (CSAI) program are to help develop the following attributes in 
+students: 
+ 
+1. Understanding of foundational topics in Computer Science, Artificial Intelligence, and Machine 
+Learning. 
+2. Understanding of theoretical foundations and limits of artificial intelligence and machine 
+learning. 
+3. Ability to design and implement algorithms and data structures for efficiently solving new 
+problems. 
+4. Ability to model and analyze a variety of problems using appropriate mathematical/computational 
+and AI concepts. 
+5. Ability of apply and develop AI algorithms to transform large amount of data into intell igent 
+decisions and/or behavior. 
+6. An understanding of the impact of AI based solutions in an economic, societal, and environment 
+context. 
+ 
+2 
+ In addition, the graduates of this program should also have the following general skills that are common 
+with other B.Tech programs: 
+7. Ability to function effectively in teams to accomplish a common goal. 
+8. An understanding of professional and ethical responsibility. 
+9. Ability to communicate effectively with a wide range of audience. 
+10. Ability to self learn and engage in life-long learning. 
+11. Ability to undertake small research tasks and projects. 
+12. Ability to take an idea and develop into a business plan for an entrepreneurial venture (if desired). 
+ 
+This document specifies the specific regulations for the B.Tech. (CSAI) program – the general 
+regulations for the B.Tech. program are given in a separat e document. These regulations are in 
+addition to the regulations of the B.Tech. program. 
+2. Program Structure 
+ 
+1. The Foundation program provides the basic knowledge about C omputer Science and 
+Artificial Intelligence (CSAI) through a set of core courses, which a re compulsory for all 
+students. 
+ 
+2. The set of core courses are shown in the table below (courses mentioned in [ ] are 
+electives and actual courses for these slots are as defined from semester to semester.) 
+ 
+For students of 2020 batch onwards 
+SEM 1 
+ SEM 2 SEM 3 SEM 4 SEM 5 Sem 6 
+Introduction 
+to 
+Programming 
+ Data Structures 
+and Algorithms Advanced 
+Programming [Fundamentals of 
+Database 
+Management 
+Systems/Computer 
+Organization/Ethics 
+in AI]* Machine 
+Learning 
+Digital 
+Circuits 
+ Introduction of 
+Intelligent 
+Systems Operating 
+Systems [Maths IV/Graph 
+Theory/Statistical 
+Inference/Introductio
+n to Mathematical 
+Logic/Theory of 
+Computation]# [Computer 
+Architecture/ 
+Computer 
+Networks/ 
+Compilers]* Ethics in 
+Artificial 
+Intelligence 
+Maths I - 
+(Linear 
+Algeb ra) Maths II -
+(Probability & 
+Statistics) Discrete 
+Mathematics /
+Discrete 
+Structures Algorithm Design 
+and Analysis Artificial 
+Intelligence [2 AI Core Courses] 
+Introduction 
+to HCI 
+ 
+ [Computer 
+Organization/F
+undamentals of 
+Database 
+Management 
+Systems]* Maths III Statistical Machine 
+Learning [4 AI Application Electives] 
+Communicati
+on Skills 
+ 
+ [SSH] Signals & 
+Systems Optimization bucket 
+[Linear Optimization, 
+Convex 
+Optimization ] Technical 
+Communication 
++ 
+Environmental 
+Sciences 
+3 
+ 
+For students of 2019 batch 
+SEM 1 
+ SEM 2 SEM 3 SEM 4 SEM 5 Sem 6 
+Introduction 
+to 
+Programming 
+ Data Structures 
+and Algorithms Advanced 
+Programming [Fundamentals of 
+Database 
+Management 
+Systems/Computer 
+Organization/Ethics 
+in AI ]* Machine 
+Learning 
+Digital 
+Circuits 
+ Introduction of 
+Intelligent 
+Systems Operating 
+Systems [Maths IV /Graph 
+Theory/S tatistical 
+Inference /Introductio
+n to Mathematical 
+Logic/Theory of 
+Computation ]# [Computer 
+Architecture/ 
+Computer 
+Networks/ 
+Compilers ]* Ethics in 
+Artificial 
+Intelligence 
+Maths I - 
+(Linear 
+Algebra) Maths II -
+(Probability & 
+Statistics) Discrete 
+Mathematics Algorithm Design 
+and Analysis Artificial 
+Intelligence [2 AI Core Courses] 
+Prototyping 
+Interactive 
+Systems 
+ 
+ [Computer 
+Organization/F
+undamentals of 
+Database 
+Management 
+Systems ]* Maths III Statistical Machine 
+Learning [4 AI Application Electives] 
+Communicati
+on Skills 
+ 
+ [SSH] Signals & 
+Systems Optimization bucket 
+[Linear Optimization, 
+Convex Optmization] Technical 
+Communication 
++ 
+Environmental 
+Sciences 
+ 
+ 
+3. List of technical and non -technical courses in the first year 
+ 
+Semester Technical Courses Non-Technical 
+Courses 
+Semester 1 Introduction to Programming 
+Digital Circuits 
+Maths I 
+Prototyping Interactive Systems Communication Skills 
+Semester 2 Data Structures and Algorithms 
+Introduction to Intelligent Systems 
+Probability and Statistics 
+Computer Organization /Fundamentals 
+of Database Management Systems SSH Elective 
+ 
+ The Advanced Part of the program 
+ 
+1. The rest of the program consists mostly of elective courses. An elective course is one 
+which is not compulsory, and a student may have choices from which to select the courses 
+he/she wants to do. A list of Elective Courses is available as Appendix. 
+ 
+2. Some o f the electives may be chosen from various domains like (more can be added 
+later): 
+ 
+4 
+ • Neuroscience or Cognition 
+• AI in Heathcare 
+• Hardware related AI, Edge Computing and AI 
+• Parallel or Distributed AI for large scale applications 
+• Human Centered AI 
+• IoT and AI 
+ 
+3. Besides elect ives for specialized areas, electives from domain areas (e.g. health, life 
+sciences, finance, economics, E -Governance, sciences, etc.) may also be offered. 
+ 
+4. There will also be a set of Social Sciences and Humanities (SSH) courses offered. 
+ 
+5. List of courses, and further information ab out the courses is available on the website: 
+https://www.iiitd.ac.in/academics/courses 
+ 
+3. Requirements for Graduation 
+ 
+For a B .Tech . (CSAI ) degree, a student must satisfy all the following requirements: 
+ 
+1. Earn a total of 15 6 (inclusive of 2 credits each of SG/CW credits) credits (equivalent to 
+39 full courses of 4 credits ). 
+ 
+2. Successfully complete all the core courses. 
+ 
+3. Do at least 12 credits of Social Science and Humanities (SSH) Courses including a 
+mandatory SSH course, Ethics in AI . Refer Appendix I for list of courses. 
+ 
+4. Do 2 credits of Community Work and Self Growth each. These are pass/fail credits, 
+which are required to be completed, and will count for fulfilling the credit requirements. 
+5. Successfully complete all core courses listed in the above table. 
+ 
+6. Earn 8 credits of additional CS core courses (from the courses marked as * in the above 
+table other than Ethics in AI course, which is a SSH course ) and 4 credits of Maths 
+Elective Courses (from the courses marked as # in the above table) . Refer Appendix I for 
+list of courses. 
+ 
+7. Earn 8 credits of additional AI core courses from list of courses and 16 credits of AI 
+application electives available at Appendix I . These credits should come from 3xx or 
+above level courses. 
+ 
+8. A student may take Online Courses. No more than 8 of these credits can count towards 
+satisfyin g the credit requirements of the degree. 
+ 
+9. A B.Tech. Project (BTP) is optional and can be started any time after the 2nd Year . A 
+student opting for BTP, may take a total of 8 to 12 credits of BTP spread over minimum 
+5 
+ 2 semesters , with no more than 8 credits in a semester. A student not completing BTP 
+credits will have to forgo the partial BTP credits earned earlier and it will not be counted 
+towards the credit requirement of 156 credits. 
+ 
+Note: A BTP has to spanned at least over 2 regular consecutive semesters (i.e., Monsoon 
+and Winter) and can spanned at most 3 consecutive semesters. However, in the case of a 
+gap due to semester leave, the student will be allowed to continue the BTP with the 
+consent of the advisor. 
+ 
+A detailed document on the guideli nes and processes to complete the BTP is available on 
+this link . 
+ 
+10. A student may take “Independent Project” or “Independent Study” or “Undergraduate 
+Research” courses for 1, 2, or 4 credits in a semester . No more than 8 of these credits can 
+count towards satisfying the credit requirements of the degree. 
+ 
+11. A student can take maximum 2, 2xx level courses in 3rd and 4th year. The 2xx level core 
+courses listed in Semester 5 or later will not count towards this clause. 
+ 
+ 
+4. Honors Program 
+ 
+The B.Tech. (CSAI ) program has the Honors option, requirements for which are same as 
+specified in the regulations for the B.Tech. program. Namely ; 
+ 
+1. The student must earn an additional 12 discipline credits from in -class courses (i.e. must 
+complete at least 168 credits) 
+2. The student’s program must include a B.Tech. Project 
+3. At graduation time, the student must have a CGPA of 8.0 or more 
+ 
+ 
+Appendix I: Tentative list of Electives 
+ 
+A. Additional CS Core Courses: Select 2 out of following courses (2X4 = 8 credits ) - should be done 
+in first 4-semesters 
+- Computer Architecture 
+- Computer Organization 
+- Fundamentals of Database Management Systems 
+- Computer Networks 
+- Compilers 
+ 
+B. Additional AI Core Courses: Select 2 out of the following courses (2 X 4 = 8 credits ) 
+6 
+ - Deep Learning 
+- Advanced Machine Learning 
+- Reinforcement Learning 
+- Data Mining 
+- Big Data Analytics 
+- Data Science 
+- Probabilistic Graphical Models 
+- Human -AI Interaction 
+- Meta -Learning 
+- Trustworthy AI Systems 
+- Theories of Deep Learning 
+- Bayesian Machine Learning 
+ 
+C. AI Applications Courses: Select 4 out of the following courses (4 X 4 = 16 credits ) 
+- Computer Vision 
+- Natural Language Processing 
+- Information Retrieval 
+- Robotics 
+- Multi -agent Systems 
+- Collaborative Filtering/Recommender Systems 
+- Speech Recognition and Understa nding 
+- Semantic Web/Knowledge Graphs 
+- Additional Applications Related Courses (Link to all available courses ) 
+ 
+D. MTH Elective Courses: Select 1 out of the following: (1 X 4 = 4 credits ) 
+- MTH 4 
+- Scientific Computing 
+- Graph Theory 
+- Statistical Inference 
+7 
+ - Theory of Computation 
+- Introduction to Mathematical Logic 
+- Information Theory 
+- Econometrics -1 
+- Econometrics -2 
+ 
+E. SSH Courses (3 X 4 = 12 credits ): (i) Ethical, Social, and Legal (ESL) Aspects in AI, and 2 other 
+SSH course s with recommendation for (a) Game Theory, (b) Critical Thinking. 
+ 
+ 
+ 
+ 
+Change History 
+ 
+• August 2019 release New Version 
+ 
+• January 2021 release (Version 1) 
+ 
+(i) Updated program structure from 2020 batch onwards (Pnt 2. 2) 
+(ii) Creation of O ptimization bucket in Semester 4. 
+(iii) Clarification regarding 32 credits requirements – counting of 3xx level courses. 
+Appl icable from 2019 batch. (Pnt 3.7 ) 
+(iv) Clarification regarding counting of 2x x level courses. (Pnt 3 .11) 
+ 
+ 
+• May 2024 release (Version 2) 
+ 
+(i) Point No. 8, . CGPA bar has been removed f or doing IP/IS/UR credits. (Ref: 53rd Senate 
+Senate ) 
+(ii) Additional AI Core Courses added (Ref: 57th Senate Decision) 
+(iii)Addition to the core Math courses that include optimization, etc. (Ref: 57th Senate 
+Decision) 
+(iv) DM and DS courses will be considered as one course . (Ref: 56th Senate Decision). 
+(v) Clarification added for BTP in line with guidelines.

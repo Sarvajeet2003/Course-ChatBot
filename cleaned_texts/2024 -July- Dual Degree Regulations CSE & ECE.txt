@@ -1,0 +1,132 @@
+1 
+ 
+ 
+ 
+ 
+Regulations for the Dual Degree Program in Computer Science and 
+Engineering (CSE) and Electronics & Communications Engineering (ECE) 
+1. Preamble 
+ 
+Dual degree programs are commo n in India and most IITs have it . The main motive 
+behind such a program is to have some of the UG students of an Institute do their 
+M.Tech. in the same Institute, so the Institute can leverage the training it had provided 
+and the seamless transition into the M .Tech . program to benefit its research activity, as 
+well as reduce the duration for earning the M .Tech . degree. Most dual degree programs 
+allow for both degrees to be earned in five years. IIIT -D’s dual degree program follows a 
+similar approach as many other Institutions. 
+2. Admission and Requirements 
+ 
+2.1 Application process for dual degree will be i nvited after 7th Semester , however it is 
+advised to the students to plan it after 6th semester so that they can plan the courses 
+properl y to comple te it within a year after B.Tech. 
+ 
+2.2 Application Timeline : Application for Dual Degree may be invited immediately after 
+declaration of the result of 7th Semester (Monsoon semester). Scrutiny, selection of 
+students, approval by Chair, PG Affairs and declaration of resul t to be completed before 
+add/drop of 8th sem ester (Winter Semester) . 
+ 
+2.3 Eligibility: Only students with CGPA of 7.0 or above at the time of applying are eligible 
+for the program. The job offer will be dropped for the students who have already 
+received the offer and are sele cted for dual degree. They will be eligible for the next 
+placement cycle with the M.Tech. batch as per the current practice. 
+ 
+2.4 Any extra course credits earned during the B.Tech. program beyond what is required for 
+the B.Tech. degree, up to a maximum of 12 credits, may be counted towards course 
+credit requirements for the M.Tech. degree. So, a student can do extra courses in 3rd and 
+4th year (as Honors students do), and ge t these credits counted towards satisfying the 
+M.Tech. course credit requirements, provided the courses are such that they can be 
+counted for M.Tech. . 
+ 
+2.5 Student s, who have undergone the B.Tech. (CSE) , B.Tech.( CS+X) or B.Tech .(ECE) 
+program of IIIT -D, have the necessary backg round and strength in foundations for 
+M.Tech.(CSE) and M.Tech .(ECE) program , respectively . Hence, only upto 12 credits of 
+core course requirement of the M.Tech. program, which is designed to impart some core 
+knowledge to students, is deemed to have been satisfied, and the same is waived -off for 
+the dual degree students for earning their M.Tech. 
+ 
+2 
+ 
+2.6 Mandatory requirement to complete OOPD course can be waived for Dual Degree 
+students as long as AP is taken by the student during B.Tech. 
+ 
+2.7 Mandator y requirement to complete RM course can be waived for Dual Degree students 
+as long as RMSSD is taken by the student during B.Tech. 
+ 
+2.8 A dual degree student will be considered as a B.Tech. student till the time he/sh e 
+completes the requirements for the same; thereafter he/sh e will be considered as an 
+M.Tech. student. The date for each degree will be based on the date of completing the 
+requirements for that degree. 
+ 
+2.9 The dual degree student must spend at least two semes ters as an M.Tech. student. 
+ 
+2.10 A dual degree student must do an M.Tech. thesis, which may be a continuation of the 
+work done in BTP. 
+ 
+2.11 If the specialization requirements are met, then the dual degree student can apply for 
+specialization as well. Also, studen t should not repeat a course already done i n B.Tech. 
+Only n ew courses need to be done to complete the dual degree requirement. 
+ 
+3. Notes : 
+ 
+3.1 The fee for the M.Tech. portion of the dual degree program will be half of regular 
+M.Tech. fee. 
+ 
+ 
+3.2 If a student does 12 credits extra in 3rd/4th years, as allowed, he/she will have to do 8 
+credits mo re in the 5th year, and at least 16 credits of M.Tech. thesis, for the M.Tech. 
+degree. The minim um number of credits for M.Tech. part under Dual Degree program is 
+36. 
+ 
+3.3 After declaration of 8th semester results the student should specify which courses shou ld 
+count for B.Tech. and which f or the M.Te ch. degree. 
+ 
+3.4 Students should be encouraged to take GAT E in their 4th year to benefit from the scheme. 
+ 
+3.5 It is clarified that after admission to Dual Degree program the student is ineligible for 
+placement. N o refun d of fee will be made if he / sh e does not join except if h e/she goes 
+for higher studies in which case some amount is deducted (the amount to be deducted 
+will be decided by the Competent Authority) . 
+ 
+3.6 On completion of B.Tech. requirements, the B.Tech. degre e may be given on submission 
+of No Dues Cer tificate. 
+ 
+3.7 If he /she cannot complete the M.Tech. part of the Dual Degree program no fee refund 
+can be made. 
+ 
+3 
+ 3.8 Internship rules for dual degree students will be same as for M.Tech. students of the 
+respective batches . 
+ 
+ 
+Change History : 
+ 
+July, 2014 : It is clarified that: 
+(i) the dual degree program is for both CSE and ECE 
+(ii) a student can opt for B.Tech. (Honors) – i.e. clause that Honors cannot be done is removed. 
+ (iii) If the specialization requirements are met, the n the dual degree student can ap ply 
+for sp ecialization as well. 
+ 
+July 2015 : 
+ 
+Points related to refund of fee and issue of B.Tech. degree on completion of degree requirements clarified vide paras 3.6 ,3.7 and 3.8. 
+ 
+July 2016: 
+ 
+Minor changes 
+ 
+April 2020: 
+ 
+(i) Pnt 2.3 – Eligibility criteria reworded 
+(ii) Pnt 2.6 
+ 
+January 20 21: 
+ 
+(i) Pnt 2.5 – B.Tech. (CS+X) ad ded 
+(ii) Pnt 2.7 
+(iii) Pnt 2.11 updated 
+(iv) Pnt 3.9 
+ 
+July 2024: 
+ 
+(i) Point 2.1 & 2.2 – application process will start in 7th semester in place of 6th (Ref. 62nd Senate) 
+(ii) Point 2.3 & 3.2 – chang e in eligibility of placeme nt (Ref. 62nd Senate)

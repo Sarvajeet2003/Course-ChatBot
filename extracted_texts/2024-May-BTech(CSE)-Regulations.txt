@@ -1,0 +1,470 @@
+1 
+  
+Regulations for the B.Tech.  in Computer Science and Engineering  
+(CSE) Program  
+1. Preamble  
+ 
+IIIT-Delhi aims to encourage research and innovation in Inform ation Technology (IT) and allied  
+areas. The objective of the B.Tech.  program in Computer Science and Engineering (CSE) is to 
+prepare students to undertake careers involving innovation and problem solving using 
+computational techniques and technologies, or to undertake advanced studies for research 
+careers , or to take up En trepreneurship . 
+ 
+In order to give due importance to applied as well as theoretical aspects of computing, the 
+curriculum for the B.Tech.  (CSE) program covers most of the foundational aspects of computing 
+sciences, and also develops in students the engineering skills for problem solving using 
+computing sciences.  
+ 
+Most  engineering programs start with  general courses in Sciences, and then mi grate to 
+specialized courses for the disciplines. While these courses are indeed foundational for many 
+engineering disciplines, they can be treated as application domains (as is evidenced from the fact 
+that most Sciences and Engineering disciplines heavily  use computing now). Hence, the B.Tech.  
+(CSE) program at IIIT -Delhi starts with computing oriented courses first, and allows the 
+possibility of doing Science courses later. Besides being better suited for a CSE program, it also 
+enables the possibility of s tudents seeing newer applications and possibilities of using computing 
+in these subjects.  
+ 
+With this approach, the B.Tech.  (CSE) program can be divided broadly in two halves. The first 
+half focuses on building the foundations, and is highly structured. The  second part is for 
+developing the skills and knowledge of the students in various topics – computing and 
+application domains. This part also provides limited specializations, and different students may 
+follow different paths and take different set of cour ses in it. Overall objectives of the B.Tech.  
+(CSE) program are to help develop the following attributes in students:  
+ 
+1. Understanding of theoretical foundations and limits of computing  
+2. Understanding of computing at different levels of abstraction including c ircuits and 
+computer architecture, operating systems, algorithms, and applications.  
+3. Ability to adapt established models, techniques, algorithms, data structures, etc. , for 
+efficiently solving new problems  
+4. Ability to design, implement, and evaluate computer  based system or application to meet 
+the desired needs using modern tools and methodologies  
+5. Ability to function effectively in teams to accomplish a common goal  
+6. An understanding of professional and ethical responsibility.  
+
+2 
+ 7. Ability to communicate effectively  with a wide range of audience  
+8. Ability to self-learn and engage in life -long learning  
+9. Understanding and ability to use  advanced techniques and tools in different areas of 
+computing  
+10. Ability to undertake small research tasks and projects  
+11. Ability to take an idea and develop into a business plan for an entrepreneurial venture (if 
+desired)  
+12. An understanding of the impact of solutions in an economic, societal, and environment 
+context.  
+ 
+This document specifies the specific regulations for the B.Tech.  (CSE) program – the general 
+regulations for the B.Tech.  program are given in a separate document. These regulations are in 
+addition to the regulations of the B.Tech.  program.  
+2. Program Structur e 
+ 
+1. The Foundation program provides the basic knowledge about C omputer Science (CS)  
+through a set of core courses, which are compulsory for all students. This program consists of 
+four major streams: software, hardware, theory, and systems. Besides these, th ere are courses 
+in Maths , communication skills , environment studies  also as part of the core program.  
+ 
+2. The set of core courses are shown in the table below (courses mentioned in [ ] are 
+electives and actual courses for these slots are as defined from semes ter to  semester.)  
+ 
+ 
+For students of 2020 batch onwards  
+SEMESTER 1  SEMESTER 
+2 SEMESTER 3  SEMESTER  4  SEMESTER 5  
+Introduction to 
+Programming  
+ Data 
+Structures and 
+Algorithms  Advanced 
+Programming  Fundamentals of Database 
+Management Systems   
+Digital Circuits  
+ Basic 
+Electronics  Operating Systems   
+[Practical 
+Bioinformatics/ Prototyping 
+Interactive 
+Systems/ Theory of 
+Computation ]# Computer 
+Networks  
+Maths I - 
+(Linear Algebra)  
+ Maths II -
+(Probability & 
+Statistics)  Discrete 
+Structures /Discrete 
+Mathematics  Algo rithm Design and 
+Analysis   
+ Introduction to 
+HCI 
+ 
+ Computer 
+Organization  [Math3, Signals & 
+Systems, 
+Embedded Logic 
+Design, ..]  [ Math 4, Graph Theory]#   
+Communication 
+Skills  
+ 
+ [SSH]  [SSH]   Technical 
+Communication 
++ Environmental 
+Sciences  
+ 
+ 
+3 
+ For students of 2019 b atch  
+SEMESTER 1  SEMESTER 2  SEMESTER 3  SEMESTER  4  SEMESTER 5  
+Introduction to 
+Programming  
+ Data Structures 
+and Algorithms  Advanced 
+Programming  Fundamentals of 
+Database 
+Management Systems   
+Digital Circuits  
+ Basic 
+Electronics  Operating 
+Systems   
+[Human Computer 
+Interaction/TOC] # Computer Networks  
+Maths I - 
+(Linear Algebra)  
+ Maths II -
+(Probability & 
+Statistics)  Discrete 
+Mathematics  Algorithm Design 
+and Analysis   
+Proto typing 
+Interactive Systems  
+ 
+ Computer 
+Organization  [Math3, Signals 
+& Systems, 
+Embedded Logic 
+Design, ..]  [ Math 4, Graph 
+Theory ]#  
+Communication 
+Skills  
+ 
+ [SSH]  [SSH]  [Science/ BIO/..] Technical 
+Communication + 
+Environmental 
+Sciences  
+ 
+ 
+      For students of 2018 to 2015 batches  
+SEMESTER 1  SEMESTER 2  SEMESTER 3  SEMESTER  4  SEMESTER 5  
+Introduction to 
+Programming  
+ Data Structures 
+and Algorithms  Advanced 
+Programming  Fundamentals of 
+Database 
+Management Systems   
+Digital Circuits  
+ Basic 
+Electronics  Computer 
+Organization  Operating Systems  Computer Networks  
+Maths I - 
+(Linear Algebra)  
+ Maths II -
+(Probability & 
+Statistics)  Discrete 
+Mathematics  Algorithm Design 
+and Analysis   
+System 
+Management  
+ 
+ Introduction to 
+Engineering 
+Design  [Math3, Signals 
+& Systems, 
+Embedded Logic 
+Design, ..]*  [Theory of 
+Computation, Math 4, 
+Optimization,..]*   
+Communication 
+Skills  
+ 
+ [SSH]  [SSH]  [Science/BIO/..]*  Technical 
+Communication + 
+Environmental 
+Sciences  
+ 
+*For these slots, a CSE student must do (i) T OC or a Maths course of 200 level or above (e.g. 
+Math III or Math IV), and (ii) must do a BIO or ECE course at 200 level or above.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+ 3. List of technical and non -technical courses in the  first year  
+ 
+     For students of 2019 batch onwards  
+Semester  Technical Courses  Non-Technical 
+Courses  
+Semester 1  Introduction to Programming  
+Digital Circuits  
+Maths I  
+Prototyping Interactive Systems  Communication Skills  
+Semester 2  Data Structures and Algorithms  
+Basic Electronics  
+Probability and Statistics  
+Computer Organization  SSH Elective  
+ 
+  
+4. The semester mentioned for the core courses is indicative and suggested, and they can be 
+done later/earlier also. However, the pre -requisite requirements must be kept in mind by a 
+student, if he/she wishes to do a core course in some other semester.  
+ 
+5. In the Engineering Science/Math course slots in second year, students can take only from 
+the list of courses specified for those slots.  
+ 
+3. The Advanced Part and Streams  
+ 
+1. The rest of the program consists mostly of elective courses.  An elective course is one 
+which is not compulsory, and a student may have choices from which to select the courses 
+he/she wants to do.  
+ 
+2. Some of the electives may be organized as streams, where a stream is a sequence of 
+courses in an area providing a limited specialization in that a rea.  
+ 
+3. Besides electives and streams for specialized areas, streams and electives from domain 
+areas (e.g. health, life sciences, finance, economics, E -Governance, sciences, etc.) may also 
+be offered.  
+ 
+4. The number and nature of streams and electives will ev olve and may change with time, 
+providing the ability to accommodate the evolving nature of computing and its applications 
+in the program. Some of the current streams are in these areas:  
+ 
+o Image Processing and Machine Intelligence  
+o Data Analytics  
+o Mobile Comp uting  
+o Security and Privacy  
+o Hardware  
+o Theory  
+5 
+ o Finance  
+o Environment  
+o Economics  
+o Sciences (Physics, Biology)  
+ 
+Note: Streams in the UG programs will not be shown on the transcript.  However, the 
+students may be guided about the courses belonging to a certain area during the 
+course counseling session conducted at the beginning of the semester. Guidance on 
+streams should also be put on the website for information of the students.  
+ 
+5. There will also be a set of Social Sciences  and Humanities  (SSH) courses offered.  
+ 
+6. List of courses, and further information about the courses is available on the website: 
+https://www.iiitd.ac.in/academics/courses  
+ 
+4. Requirements for Graduation  
+ 
+For a B .Tech . (CSE) degree, a student must satisfy all the following requirements:  
+ 
+1. Earn a total of 15 6 (inclusive of 2 credits each of SG/CW credits)  credits (equivalent to 
+39 full courses  of 4 credits ) 
+ 
+2. Successfully complete all the core courses.  
+ 
+3. Do at least 12 credits of Social Science and Humanities  (SSH)  Courses.  
+ 
+4. Do 2 credits of Community Work and Self Growth  each. These are pass/fail credits, 
+which are required to be completed, and will count for fulfilling the credit requirements.  
+ 
+5. A student may take Online Courses. No more than 8 of these credits can count towards 
+satisfying the credit requirements of the degree.  
+ 
+6. A student must complete  at least 32 credits of CSE  courses.  B.Tech. Project  /Independent 
+Project /Independent Study/Undergraduate Research will  not count towards  this 
+requirement. These 32 credits should come from 3xx or above level courses  and should 
+be different from the core courses . AAC  may approve other relevant courses (e.g. , from 
+Math, ECE, Computational Biology, etc.) to be counted as CSE courses for this purpose.  
+Online courses of the respective discipl ine (i.e., online courses with CSE course code) .  
+ 
+7. A B.Tech. Project (BTP) is optional and can be started any time after the 2nd Year. A 
+student opting for BTP, may take a total of 8 to 12 credits of BTP spread over minimum 
+2 semesters, with no more than 8 credits in a semester. A student not completing BTP 
+credits will have to forgo the partial BTP credits earned earlier and it will not be counted 
+towards the credit requirement of 156 credits.  
+ 
+6 
+ Note: A BTP has to spanned at least over 2 regular consecutive semesters (i.e., Monsoon 
+and Winter) and can spanned at most 3 consecutive semesters. However, in the case of a 
+gap due to semester leave, the student will be allowed to continue the BTP with t he 
+consent of the advisor.  
+ 
+A detailed document on the guidelines and processes to complete the BTP is available on 
+this link.  
+ 
+8. A student may take “Independent Project” or “Independent Study” or “Undergraduate 
+Research” courses for 1, 2, or 4 credits  in a semester . No more than 8 of these credits can 
+count towards satisfying the credit requiremen ts of the degree.    
+9. A student can take maximum 2, 2xx level courses in 3rd and 4th year.  The 2xx level core 
+courses listed in Semester 5 or later will not count towards this clause.  
+ 
+10. #A student should do at least one elective course from each of the two slots .- [Math 
+IV/Graph Theory] and [HCI/TOC]  (for 2019 batch)/  [Math IV/Graph Theory] 
+[PB/PIS/TOC] (from 2020 batch onwards ) positioned in Semester 4  
+ 
+ 
+5. Honors Program  
+ 
+The B.Tech.  (CSE) program has the Honors option, requirements for which are same as 
+specified in the regulations for the B.Tech.  program. Namely ; 
+  
+1. The student must earn an additional 12 discipline credits  from in -class courses  (i.e. must 
+complete at least 168 credits)  
+2. The student’s program must include a B.Tech.  Project  
+3. At graduation time, the student must have a CGPA of 8.0 or more  
+ 
+ 
+Change History  
+ 
+• December 2010 release - Version 2.0:  Main changes: Graduation requirements 
+enhanced to 152 (8 more); system management, critical reading, and technical 
+communication were made full 4 unit courses (and the 2 unit course in 4th year on 
+interview sk ills was removed), and an additional Maths course (4 unit) was added in the 
+second year.  
+• April 2012 release  - Version 2.1 : This is now stated as requirements for CSE. Math 1 has 
+been made a core course, and TOC has been made an elective. A design course has been 
+introduced as a core course in 2nd semester. The elective slots in 2nd year has been marked 
+as Engineering Science/Maths and it has been clarified that, students can take courses 
+only from the list of courses specified in these slots . Clarified that  2 credits of SG and 2 
+credits of CW must be done. Clarified that only 4 credits of BTP/IP/IS/UR can be 
+counted for meeting the 8 credit s CSE/Math per semester requirement. Clarif ied that the 
+total credits in first two  years is 20 courses, and 18 courses in the last two  years . BTP 
+credit s range has been changed to 8 -12 credits  from  16 credits.  
+7 
+  
+• July 2013 Release  
+Preamble modified  
+Critical reading and Software Engineering removed from core  
+In 2nd year, it is indicated that TCOM can be done  
+Math 1 and Math 2 explained  
+Intro to Engg Design added in 2ndsem as a sequel to System Management  
+Added the regulation for BTP External  
+Changed the 8 CSE credits per semester to 32 CSE credits in last four semesters.  No 
+IP/IS/BTP credits to count towards this requirement  
+ 
+• July,  2014 release : Only a few minor changes done  
+ 
+• November , 2014 release : Program Objectives added  
+ 
+• July,2015 release:  
+ 
+(i) B.Tech. (CSE) program revised w.e.f. Academic year 2015 -16 * 
+(ii) BTP External discontinued  
+            (iii) BTP credits towards fulfilment of degree requirements reduced to maximum 12 from    
+                   maximum 16 . 
+  
+• July, 2016 release:  
+(i) Streams in UG program discontinued  
+(ii) Some  compulsory requirements in 2nd year elective slots  
+ 
+ 
+• July 2017 release  
+ 
+*For students of 2014 and earlier batches the set of core courses are shown in the table 
+below (courses mentioned in [ ] are electives and actual courses for these slots are as 
+defined from semester to  semester.)  
+ 
+ Sem 1  Sem 2  Sem 3  Sem 4  
+Software 
+Stream  Intro to 
+Programming  Data Structures 
+and Algorithms  Advanced 
+Programming  Databases and 
+SQL  
+Hardware 
+Stream  Digital circuits  Computer 
+organization    
+Theory 
+Stream    Discrete Math  Algorithm Design 
+and Analysis  
+Systems 
+stream  System  
+Management   Operating 
+Systems  Computer 
+Networks  
+Maths  Math 1 (Linear Math 2   
+8 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• July 2019 release  
+ 
+(i) Counting of SG, CW credits in total credits. Applicable from 2017 batch onwards.  
+(ii) Total credits requirement for graduation and credit requirement for Honors students. 
+Applicable from 2017 batch onwards.  
+(iii) Courses for Honors students. Applicable from 2017 batch onwards.  
+(iv) Discontinuation of BTP to IP conversion. Applicable from AY2019 -20. 
+(v) Technical Courses  
+(vi) 2xx level courses  
+ 
+• August 2019 relea se 
+ 
+      (i) Program structure , Pnt 2.2  
+(ii) List of technical and non -technical courses in the  first year , pnt 2(B) . For students of 
+2018 -2015 batches  
+ 
+Semester  Technical Courses  Non-Technical 
+Courses  
+Semester 1  Introduction to Programming  
+Digital Circuits  
+Maths I  
+System Management  Communication Skills  
+Semester 2  Data Structures and Algorithms  
+Basic Electronics  
+Probability and Statistics  
+Introduction to Engineering Design  SSH Elective  
+ 
+ 
+(iii) Requirements for Graduation, Pnt 4(10). Applicable from 2019 batch onwards.  
+ 
+• January 2021 release  
+ 
+(i) Updated program structure from 2020 batch onwards (Pnt 2.2)  
+(ii) Creation of Optimization bucket in Semester 6.  Algebra)  (Probability and 
+Statistics)  
+Communic
+ations/HSS  Communicatio
+n Skills  [HSS -1] [HSS -2] Technical 
+Communication (2 
+credits)  
+Other 
+Courses     [Engineering 
+Science/Math]  Environment 
+studies (2 credits)  
+ [Engineering 
+Science/Math]  
+9 
+ (iii) Clarification regarding 32 credits requirements – counting of 3xx level courses. 
+Applicable from 2019 batch. (Pnt 4.6)  
+(iv) Clarification regarding counting of 2xx level courses. (Pnt 4.9)  
+ 
+• May  2024 Release  
+(i) Removed Science / Bio Slot (Semester 4) (Ref 51st Senate)  
+(ii) Point No. 8, CGPA bar has been removed for doing IP/IS/UR credits. (Ref: 53rd 
+Senate Senate)  
+(iii) DM and DS courses will be considered as one course . (Ref: 56 th Senate Decision).  
+(iv) 3.6 has been updated with (i) 3xx or higher should be different from the core courses  
+which will be applicable from 2022 admitted batch and (ii) replaced the phrase “3xx 
+or above in the last four -semester” with “3xx or above” which will be applicable 
+from ongoing batch. (Ref: 61st Senate)  
+(v) Clarification added for BTP in line with guidelines  
+ 

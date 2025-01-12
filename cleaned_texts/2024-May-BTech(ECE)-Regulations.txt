@@ -1,0 +1,342 @@
+Regulations for B.Tech. in Electronics and Communications 
+Engineering (ECE) 
+ 
+1. Preamble 
+ 
+IIIT Delhi aims to encourage research and innovation in Information Technology (IT) and 
+allied areas. The objective of the B.Tech. program in Electronics and Communications 
+Engineering (ECE) is to prepare students to undertake careers involving innovation and 
+problem solving using suitable techniques and hardware and software technologies, or to 
+undertake advanced studies for researc h careers. 
+ 
+In order to give due importance to apply as well as theoretical aspects of ECE, the 
+curriculum for the B.Tech. (ECE) program covers most of the foundational aspects and also 
+develops in students the engineering skills for problem solving. Towar ds this, the B.Tech. 
+(ECE) program at IIIT -Delhi starts with computing and Electronics courses first, and 
+allows the possibility of doing science courses later. Besides being better suited for 
+developing engineering capabilities, it also enables the possib ility of students seeing newer 
+applications and possibilities of using computing and electronics in these subjects. 
+ 
+The first year of the ECE program is common with CSE - this allows flexibility to students 
+in moving from one program to the other. The sec ond year program is relatively fixed, 
+comprising mostly of core courses for the program. 3rd year onwards the program can be 
+mostly flexible comprising of electives, which may be organized as streams, including in 
+Computer Science as well as domain areas. 
+ 
+This document specifies the specific regulations for the B.Tech. (ECE) program – the 
+general regulations for the B.Tech. program are given in a separate document. These 
+regulations are in addition to the general regulations of the B.Tech. program. 
+ 
+2. Progr am Structure 
+ 
+2.1 The set of core courses are shown in the table below (courses mentioned in [ ] are electives 
+and actual courses for these slots are as defined from semester to semester.) 
+ 
+For students of 2020 batch onwards 
+ 
+SEMESTER 1 SEMESTER 2 SEMESTER 3 SEMESTER 4 SEMESTER 5 
+Introduction to 
+Programming Data Structures and 
+Algorithms Circuit theory and 
+Devices Fields & Waves [Digital Communication 
+Systems – core elect] 
+Digital Circuits Basic Electronics Embedded Logic 
+Design Integrated Electronics [Digital Signal Processing 
+– core elect] 
+ Introduction to HCI Computer Organization Signals and Systems Principles of 
+Communication Systems 
+Maths I (Linear 
+Algebra) Maths II (Probability 
+and Statistics) Maths III 
+(Multivariate 
+Calculus) Maths IV (ODE/PDE) 
+Communication Skills [SSH] [SSH/Advanced 
+Programming] Technical 
+Communication + 
+Environmental Sciences 
+ 
+ 
+For students of 2019 batch 
+SEMESTER 1 SEMESTER 2 SEMESTER 3 SEMESTER 4 SEMESTER 5 
+Introduction to 
+Programming Data Structures and 
+Algorithms Circuit theory and 
+Devices Fields & Waves [Digital Communication 
+Systems – core elect] 
+Digital Circuits Basic Electronics Embedded Logic 
+Design Integrated Electronics [Digital Signal Processing 
+– core elect] 
+Prototyping Interactive 
+Systems Computer Organization Signals and Systems Principles of 
+Communication 
+Systems 
+Maths I (Linear 
+Algebra) Maths II (Probability 
+and Statistics) Maths III (Multivariate 
+Calculus) Maths IV (ODE/PDE) 
+Communication 
+Skills [SSH] [SSH/Advanced 
+Programming] [Science/BIO/..] Technical Communication 
++ Environmental Sciences 
+ 
+ 
+For students of 2018 -2015 batches 
+SEMESTER 1 SEMESTER 2 SEMESTER 3 SEMESTER 4 SEMESTER 5 
+Introduction to 
+Programming Data Structures and 
+Algorithms Circuit theory and 
+Devices Fields & Waves [Digital Communication 
+Systems – core elect] 
+Digital Circuits Basic Electronics Embedded Logic 
+Design Integrated Electronics [Digital Signal Processing 
+– core elect] 
+System Management Introduction to 
+Engineering Design Signals and Systems Principles of 
+Communication 
+Systems 
+Maths I (Linear 
+Algebra) Maths II (Probability 
+and Statistics) Maths III (Multivariate 
+Calculus) Maths IV (ODE/PDE) 
+Communication 
+Skills [SSH] [SSH/Advanced 
+Programming] [Science/ BIO/..] Technical Communication 
++ Environmental Sciences 
+ 
+2.2 First semester courses are common across all the B.Tech. programs . All students do one 
+course each in Maths, Software, Hardware, Systems/practice, and Comm. All courses, 
+except SS H, are core courses. 
+ 
+2.3 List of technical and non -technical courses of first year 
+Semester Technical Courses Non-Technical Courses 
+Semester 1 Introduction to Programming 
+Digital Circuits 
+Math s I 
+Prototyping Interactive Systems Communication Skills 
+Semester 2 Data Structures and Algorithms 
+Basic Electronics 
+Probability and Statistics 
+Computer Organization SSH Elective 
+ 
+2.4 The semester mentioned for the core courses is indicative and suggested, and they can be 
+done later/earlier also. However, the pre -requisite requirements must be kept in mind by a 
+student, if he/she wishes to do a core course in some other semester. 
+ 
+2.5 Program structure in 3rd and 4th Years. 
+ 
+2.6 Most courses in Sem ester 5-8 are electives (an elective course is one which is not 
+compulsory, and a student may have choices from which to select the courses he/she wants 
+to do) . Core Electives mentioned in Semester 5 are the highly recommended el ectives, 
+however are not compuls ory (core) courses. 
+ 
+2.7 Some of the electives may be organized as streams, where a stream is a sequence of 
+courses in an area providing a limited specialization in that area. Streams allow the student 
+to focus on some area of ECE – as ECE is too diverse it i s not possible for a student to gain 
+a decent mastery in all. Streams allow the student to focus on a chosen area to gain a level 
+of depth, and gain some understanding of other areas by doing some courses from other 
+streams. 
+ 
+2.8 Besides electives and streams for specialized areas, streams and electives from domain 
+areas (e.g. health, life sciences, finance, economics, E -Governance, sciences, etc.) may also 
+be offered. A student may also be able to take CSE courses. 
+ 
+Note: Streams in the UG programs will not b e shown on the transcript. However, the 
+students may be guided about the courses belonging to a certain area during the course 
+counseling session conducted at the beginning of the semester. Guidance on streams may 
+also be put up on the website for informat ion of the students. 
+ 
+2.9 There will also be a set of Social Sciences and Humanities (SSH) courses offered. 
+ 
+2.10 List of courses, and further information about the courses is available on the website: 
+https ://www.iiitd.ac.in/academics/courses 
+ 
+ 
+3 Requirements for Graduation 
+ 
+For a B.Tech. (ECE) degree, a student must satisfy all the following requirements: 
+ 
+ 
+1. Earn a total of 156 (inclusive of 2 credits each of SG and CW credits) credits 
+(equivalent to 39 full courses of 4 credits). 
+ 
+2. Successfully complete all the core courses. 
+ 
+3. Complete at least 12 credits of Social Science and Humanities (SSH ) Courses. 
+ 
+4. Do 2 credits of Community Work and Self Growth each. These are pass/fail credits, 
+which are required to be completed , and will count for fulfilling the credit 
+requirements. 
+ 
+5. A student may take Online Courses. No more than 8 of these credits can count towards 
+satisfying the credit requirements of the degree. 
+ 
+6. A studen t must at least 32 credits (8 full courses) of ECE courses. B.Tech. Project 
+/Independent Project /Independent Study/Undergraduate Research will not count 
+towards this requirement. These 32 credits should come from 3xx or above level 
+courses and should be different from the core courses . AAC may approve some other 
+relevant courses (e.g. from Math s, CSE, Computational Biology, etc.) to be counted as 
+ECE courses for this purpose. Online courses of the respective discipline (i.e. online 
+courses with ECE course code . 
+ 
+7. A B.Tech. Project (BTP) is optional and can be started any time after the 2nd Year. A 
+student opting for BTP, may take a total of 8 to 12 credits of BTP spread over 
+minimum 2 sem esters, with no more than 8 credits in a semester. A student not 
+completing BTP credits will have to forgo the partial BTP credits earned earlier and it 
+will not be counted towards the credit requirement of 156 credits. 
+ 
+Note: A BTP has to spanned at least over 2 regular consecutive semesters (i.e., 
+Monsoon and Winter) and can spanned at most 3 consecutive semesters. However, in 
+the case of a gap due to semester leave, the student will be allowed to continue the BTP 
+with the consent of the advisor. 
+ 
+A detailed document on the guidelines and processes to complete the BTP is available 
+on this link . 
+ 
+8. A student may take “Independent Project” or “Independent Study” or “Undergraduate 
+Research” courses for 1, 2, or 4 credits. No more than 8 of these credits can count 
+towards satisfying the credit requirements of the degree. 
+9. A student can take maximum 2, 2xx level courses in 3rd and 4th year. The 2xx level 
+core courses listed in Semester 5 or later will not count towards this clause. 
+ 
+ 
+4 Honors Program 
+ 
+The B.Tech. (ECE) program has the Honors option, requirements for which are same as 
+specified in the regulations for the B.Tech. program. Namely; 
+ 
+1. The student must earn an additional 12 discipline credits from in -class courses (i.e. 
+must complete at least 16 8 credits) 
+2. The student’s program must include a B.Tech. Project 
+3. At graduation time, the student must have a CGPA of 8.0 or more 
+ 
+5 Suggested “Streams” for ECE 
+ 
+Streams will evolve over time – based on trends as well as faculty interests. Some common 
+streams that are possible are given below. Then nature of streams will evolve with time 
+depending on the interests of faculty as well as relevance/importance of the areas. 
+ 
+1. Signal and Image Processing 
+2. RF and Communication Engineering 
+3. Circuits and VLSI 
+4. Controls and Emb edded Systems 
+ 
+The courses in the streams will be of two types to serve dual purpose. On one hand there 
+will be courses to train students in the fundamentals of the specific streams whereas on the 
+other hand there will be advanced courses to train the stu dents on the latest developments 
+in those specific streams. 
+ 
+The suggested courses for some of the streams are given below. These courses can be 
+added/deleted based on their relevance after taking feedback from industry and academia. 
+ 
+Signal and Image Pr ocessing Courses: Digital Signal Processing, Image Analysis, 
+Machine Learning, Statistical Signal Processing, Compressive Sensing, Transform 
+Learning and Applications, Multirate Signal Processing, Computer Vision, Multimedia 
+Compression, Multimedia Security 
+ 
+RF and Communication Engineering Courses : Digital Communication System, 
+Antennas Theory and Design, RF Circuit Design, Radar systems, RF Transceiver Design, 
+Wireless Networks, Wireless System Implementation, Green Information and 
+Communication Technology, Optical Communication System, Mobile Communication 
+Circuits and VLSI Courses : Digital VLSI Design , Analog CMOS Circuit Design , System 
+on Chip Design and Test , Low Power Design , Memory Design , Mixed Signal Design , 
+VLSI Design and Test Flow , RF Circuit Design , RF Transceiver Design 
+ 
+Controls and Embedded Systems Courses: Introduction to Robotics, Advanced 
+Embedded Logic Design, Control Theory, Optimal Control Systems, Stochastic Estimation 
+and Control , Computer Architecture, Multi Agent Systems 
+ 
+ 
+Change History 
+ 
+• July 2013 release : B.Tech.(ECE) regulation revised 
+ 
+• July 2014 release : Only a few minor changes done. 
+ 
+ 
+• July 2015 release: 
+(i) B.Tech. (ECE) program revised w.e.f. Academic year 2015 -16 * 
+(ii) BTP External discontinued 
+(iii) BTP credits towards fulfilment of degree requirements reduced to 12. 
+ 
+• July 2016 release: 
+(i) Discontinuation of streams in UG program 
+• July 2017 release 
+*For students of 2014 and earlier batches the set of core courses are shown in the tables below 
+(courses mentioned in [ ] are electives and actual courses for these slots are as defi ned from 
+semester to semester.) 
+First year courses are common for both ECE and CSE students. Each of the two semesters, all 
+students do one course each in Maths, Software, H ardware, Systems/practice, and HSS/Comm. 
+All courses, except HSS, are core courses. 
+ 
+ Sem 1 Sem 2 
+Hardware Digital circuits Basic Computer Organization 
+Software Intro to Programming Data structures and Algos 
+Systems/Practice System Management Intro to Engineering Design 
+Maths Math 1 (Linear 
+Algebra) Math 2 (Probability and 
+Statistics) 
+Communication Skills / HSS Com 1 [HSS 1] 
+ 
+ 
+Core Courses for ECE in 2nd Year 
+ 
+In 3rd and 4th semesters, the course load will be same as in CSE – 5 courses, including one HSS/. 
+Communication Skills. These core courses are given below: These courses will become pre -
+requisites for advanced courses in some of the streams. 
+ 
+ 
+Sem 3 Sem 4 
+ Linear Cir cuits Principles of Comm unication Systems 
+Embedded Logic Design Integrated Electronics 
+Signals & Systems Fields and Waves 
+Math 3 (Complex Variables, Vector 
+Calculus and ODEs ) Math 4 ( Numerical Methods and Optimization ) 
+[HSS 2] 
+Technical Communication (2 credits) 
+Environment Studies (2 credits) 
+ 
+• July 2019 release 
+ 
+(i) Counting of SG, CW credits in total credits. Applicable from 2017 batch onwards. 
+(ii) Total credits requirement for graduation and credit requirement for Honors students. 
+Applicable from 2017 batch onwards. 
+(iii) Courses for Honors students. Applicable from 2017 batch onwards. 
+(iv) Discontinuation of BTP to IP conversion. Applicable from AY2019 -20. 
+(v) Technical Courses 
+(vi) 2xx level courses 
+ 
+• August 2019 release 
+ 
+ (i) Program structure Pnt 2.1 
+ (ii) List of technical and non -technical courses in the first year. For students of 2018 - 
+ 2015 batches 
+ 
+Semester Technical Courses Non-Technical 
+Courses 
+Semester 1 Introduction to Programming 
+Digital Circuits 
+Math s I 
+System Management Communication Skills 
+Semester 2 Data Structures and Algorithms 
+Basic Electronics 
+Probability and Statistics 
+Introduction to Engineering Design SSH Elective 
+ 
+ 
+ 
+• January 2021 release 
+ 
+(i) Updated program structure from 2020 batch onwards (Pnt 2.1) 
+(ii) Clarification regarding 32 credits requirements – counting of 3xx level courses. 
+Applicable from 2019 batch. (Pnt 3. 6) 
+(iii) Clarification regarding counting of 2xx level courses. (Pnt 3.9) 
+ 
+• May 2024 Release 
+(i) Removed Science / Bio Slot (Semester 4) (Ref 51st Senate) 
+(ii) Point No. 8, CGPA bar has been removed for doing IP/IS/UR credits. (Ref: 53rd Senate 
+Senate) 
+(iii) 3.6 has been updated with (i) 3xx or higher should be different from the core courses 
+which will be applicable from 2022 admitted batch and (ii) replace d the phrase “3xx or 
+above in the last four -semester” with “3xx or above” which will be applicable from 
+ongoing batch. (Ref: 61st Senate) 
+(iv) Clarification added for BTP in line with guidelines

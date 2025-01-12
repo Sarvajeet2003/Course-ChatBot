@@ -1,0 +1,390 @@
+1 
+ 
+ 
+ 
+Regulations for B.Tech. Computer Science and Applied 
+Mathematics (CSAM) Program 
+ 
+1. Preamble 
+ 
+The increasing use of sophisticated mathematical tools and techniques in tandem with 
+computational tools in several areas such as computational finance, biology, e­commerce, 
+weather forecasting, and data science motivates the need for a program that will produce 
+graduates with computational skills as well as the ability to use sophisticated mathematical 
+concepts and tools in order to tackle these problems. 
+The Computer Science and Applied Mathematics program aims to develop such graduates. 
+The program is similar to the Mathe matics and Computing programs operating in many 
+leading Institutions. The program has a small set of core courses in both Computer Science 
+and Mathematics, and many electives which can be taken from both the disciplines. This 
+enables the students to build a program most suitable for them. It is possible for a student of 
+this program to complete the requirements necessary to appear for the JRF/NET exam in 
+Mathematical Sciences (including Statistics) jointly conducted by UGC and CSIR, or the 
+GATE exam in Math ematics/Computer Science. 
+ 
+This document specifies the specific regulations for the B.Tech. (CSAM) program – the general 
+regulations for the B.Tech. program are given in a separate document. 
+ 
+Program Objectives : At the end of this program, a student should have: 
+1. Understanding of foundational topics in Mathematics. 
+2. Understanding of theoretical foundations and limits of computing and different levels of 
+abstraction including architecture and operating systems, algorithms, and applications. 
+3. Ability to design and implement algorithms and data structures for efficiently solving 
+new problems. 
+4. Ability to use and apply mathematical and statistical techniques and tools to solve 
+problems. 
+5. Ability to abstract and rigorously model and analyze a variety of problems 
+using appropriate mathematica l or computational concepts. 
+ 
+2 
+ In addition, the graduate of this program should also have the following general skills that are 
+common with other B.Tech. programs: 
+6. Ability to function effectively in teams to accomplish a common goal. 
+7. An understanding of professional and ethical responsibility. 
+8. Ability to communicate effectively with a wide range of audience. 
+9. Ability to self-learn and engage in life -long learning. 
+10. Ability to undertake small research tasks and projects. 
+11. Ability to take an i dea and develop into a business plan for an entrepreneurial venture (if 
+desired). 
+12. An understanding of the impact of solutions in an economic, societal, and environment 
+context. 
+ 
+This document specifies the specific regulations for B.Tech. (CSAM) program -the general 
+regulations for the B.Tech. Program are given in a separate document. 
+ 
+2. Program Structure 
+ 
+1. The B.Tech. program at IIIT­D follows the philosophy of having a small set of core courses 
+and many electives allowing students significant flexibility in designing their curriculum 
+and specialization. The overall program structure is given in the table below. The first 
+semester courses are common with other B.Tech. programs, -this allows change of discipline 
+after 1st Semester. Semester 2 -4 is mostly cor e courses. In the 3rd year, there are some core 
+courses and rest are electives. In the final year, all courses are electives (except special 
+electives, other electives are not mentioned in the table.) In the program below, the 
+placement of courses in semes ter is only indicative and not a part of the requirements. 
+ 
+For students of 2020 batch onwards 
+SEMESTER 1 SEMESTER 2 SEMESTER 3 SEMESTER 4 SEMESTER 5 SEMESTER 6 
+Introduction to 
+Programing 
+ Data Structures 
+and Algorithms Real Analysis I Math IV (ODE/ 
+PDE) Special Elective -2 Optimization 
+Bucket [ 
+Linear 
+Optimization /C
+onvex 
+Optimization] 
+Digital Circuits 
+ Basic 
+Electronics Operating Systems Abstract Algebra I Stochastic 
+Processes and 
+Applications Statistical 
+Inference 
+Maths I (Linear 
+Algebra) 
+ Maths II 
+(Probability and 
+Statistics) Discrete 
+Structures /Discrete 
+Structures Algorithm Design 
+and Analysis 
+Introduction to 
+HCI 
+ Computer 
+Organization Special Elective -1 Theory of 
+Computation 
+Communication 
+Skills 
+ 
+ [SSH] [SSH] Technical 
+Communication + 
+Environmental 
+Science 
+3 
+ 
+ 
+For students of 2019 batch 
+SEMESTER 1 SEMESTER 2 SEMESTER 3 SEMESTER 4 SEMESTER 5 SEMESTER 6 
+Introduction to 
+Programing 
+ Data Structures 
+and Algorithms Real Analysis I Math IV (ODE/ 
+PDE) Special Elective -3 Optimization 
+Bucket [ 
+Linear 
+Optimization / 
+Convex 
+Optimization] 
+Digital Circuits 
+ Basic 
+Electronics Operating Systems Abstract Algebra I Stochastic 
+Processes and 
+Applications Statistical 
+Inference 
+Maths I (Linear 
+Algebra ) 
+ Maths II 
+(Probability and 
+Statistics) Discrete Structures Algorithm Design 
+and Analysis 
+Prototyping 
+Interactive 
+Systems 
+ Computer 
+Organization Special Elective -1 Theory of 
+Computation 
+Communication 
+Skills 
+ 
+ [SSH] [SSH] Special Elective -2 Technical 
+Communication + 
+Environmental 
+Science 
+ 
+ 
+For students of 2018 and previous batches 
+SEMESTER 1 SEMESTER 2 SEMESTER 3 SEMESTER 4 SEMESTER 5 SEMESTER 6 
+Introduction to 
+Programing 
+ Data Structures 
+and Algorithms Real Analysis I Math IV (ODE/ 
+PDE ) Special Elective -3 Optimization 
+Bucket[ 
+Linear 
+Optimization /C
+onvex 
+Optimization] 
+Digital Circuits 
+ Basic 
+Electronics Computer 
+Architecture and 
+Operating Systems Abstract Algebra I Stochastic 
+Process es and 
+Applications Statistical 
+Inference 
+Math s I (Linear 
+Algebra) 
+ Math s II 
+(Probability and 
+Statistics) Discrete Structures Algorithm Design 
+and Analysis 
+Systems 
+Management 
+ 
+ Introduction to 
+Engineering 
+Design Special Elective -1 Theory of 
+Computation 
+Communication 
+Skills 
+ 
+ [SSH] [SSH] Special Elective -2 Technical 
+Communication + 
+Environment al 
+Science 
+ 
+ 
+ 
+ 
+ 
+4 
+ 2. List of technical and non -technical courses of first year 
+ 
+Semester Technical Courses Non-Technical 
+Courses 
+Semester 1 Introduction to Programming 
+Digital Circuits 
+Math I 
+Prototyping Interactive Systems Communication Skills 
+Semester 2 Data Structures and Algorithms 
+Basic Electronics 
+Probability and Statistics 
+Computer Organization SSH Elective 
+ 
+Structure of Special Electives: 
+The course structure allows a student sufficient flexibility in the choice of elective courses 
+and thus structures the program to their interest. However, in choosing electives, the 
+following rules must be followed. 
+• Special Elective 1: In this a student c an select from a set of defined courses depending 
+on his/her preference. It can be one of the following(this set may be changed later) 
+○ Number Theory 
+○ Advanced Programming 
+○ Physics 
+○ Signals and Systems 
+ 
+ 
+• Special Elective 2: This elective in Semester V is a choice between 
+○ Real Analysis II 
+○ Scientific Computing 
+It is strongly advised that a student do both courses - one in this slot and the other as a regular 
+elective . 
+List of courses, and further information about the courses is available on the website: 
+https://www.iiitd.ac.in/academics/courses 
+ 
+3. Requirements for Graduation 
+ 
+For a B.Tech.(CSAM) degree, a student must satisfy all the following requirements: 
+ 
+1. Earn a total of 156 (inclusive of 2 credits each of SG/CW credits) credits (equivalent to 
+39 full courses of 4 credits ). 
+ 
+2. Successfully complete all the core c ourses and special electives. 
+5 
+ 
+3. Complete at least 12 credits of Social Science and Humanities (SSH) Courses. 
+ 
+4. Do 2 credits of Community Work and Self Growth each. These are pass/fail credits, 
+which are required to be completed, and will count for fulfilling the credit requirement s. 
+ 
+5. A student may take Online Courses. No more than 8 of these credits can count towards 
+satisfying the credit requirements of the degree. 
+ 
+6. A student must complete at least 32 credits of CSE/Maths courses, which should include 
+at least 12 credits of CSE and 12 credits of Maths courses. BTP/Independent 
+project/Independent study/Undergraduate Research will not count towards this 
+requirement. These 32 credits should come from 3xx or above level course s and should 
+be different from the core courses . AAC may approve other relevant courses (e.g., ECE, 
+Computational Biology, etc.) to be counted as CSE/Maths courses for this purpose. 
+Online courses of the respective discipline (i.e. online courses with CSE or MTH course 
+code) . 
+ 
+7. A B.Tech. Project (BTP) is optional and can be started any time a fter the 2nd Year. A 
+student opting for BTP, may take a total of 8 to 12 credits of BTP spread over minimum 
+2 semesters, with no more than 8 credits in a semester. A student not completing BTP 
+credits will have to forgo the partial BTP credits earned earli er and it will not be counted 
+towards the credit requirement of 156 credits. 
+ 
+Note: A BTP has to spanned at least over 2 regular consecutive semesters (i.e., Monsoon 
+and Winter) and can spanned at most 3 consecutive semesters. However, in the case of a 
+gap due to semester leave, the student will be allowed to continue the BTP with the 
+consent of the advisor. 
+ 
+A detailed document on the guidelines and processes to complete the BTP is available on 
+this link. 
+ 
+8. A student may take “Independent Project” or “Independent Study” or “Undergraduate 
+Research” courses for 1, 2, or 4 credits in a semester. No more than 8 of these credits can 
+count towards satisfying the credit requirements of the degree. 
+ 
+9. A student can take maximum 2, 2xx level courses in 3rd and 4th year. The 2xx level core 
+courses listed in Semester 5 or later will not count towards this clause. 
+4. Honors Program 
+ 
+The B.Tech. (CSAM) program has the Honors option, requirements for which are same as 
+specified in the regulations for the B.Tech. program. Namely; 
+ 
+1. The student must earn an additional 12 discipline credits from in -class courses (i.e. must 
+complete at least 168 credits). 
+6 
+ 2. The student’s program must include a B.Tech. Project. 
+3. At graduation time, the student must have a CGPA of 8.0 or more. 
+ 
+ 
+ 
+Change History 
+ 
+• July 2016 release – Version 1 
+• April 2017 release – Minor changes 
+• July 2017 release – Minor changes 
+ 
+• July 2019 release (Version 2) 
+ 
+(i) Counting of SG, CW credits in total credits . Applicable from 2017 batch onwards. 
+(ii) Total credits requirement for graduation and credit requirement for Honors students. 
+Applicable from 2017 batch onwards. 
+(iii) Courses for Honors students. Applicable from 2017 batch onwards. 
+(iv) Discontinuation of BTP to IP conversion. Applicable from AY2019 -20. 
+(v) Technical Courses 
+(vi) 2xx level courses 
+ 
+• August 2019 release (Version 3) 
+ 
+ (i) Program Structure (Pnt 2.1 ). 
+(ii) List of technical and non -technical courses in the first year , pnt 2(B). For students of 
+ 2018 -2016 batches 
+ 
+Semester Technical Courses Non-Technical 
+Courses 
+Semester 1 Introduction to Programming 
+Digital Circuits 
+Math I 
+System Management Communication Skills 
+Semester 2 Data Structures and Algorithms 
+Basic Electronics 
+Probability and Statistics 
+Introduction to Engineering Design SSH Elective 
+ 
+• January 2021 release (Version 4) 
+ 
+(i) Updated program structure from 2020 batch onwards (Pnt 2.1) 
+(ii) Creation of Optimization bucket in Semester 6. 
+(iii) Clarification regarding 32 credits requirements – coun ting of 3xx level courses. 
+Applicable from 2019 batch. (Pnt 3.6) 
+(iv) Clarification regarding counting of 2xx level courses. (Pnt 3.9) 
+ 
+7 
+ • May 2024 release (Version 5) 
+(i) Removed Science / Bio Slot (Semester 4) (Ref 51 st Senate) 
+(ii) Point No. 8, CGPA bar has been removed f or doing IP/IS/UR credits. (Ref: 53 rd 
+Senate Senate) 
+(iii) DM and DS courses will be considered as one course . (Ref: 56 th Senate Decision). 
+(iv) 3.6 has been updated with (i) 3xx or higher should be different from the core courses 
+which will be applicable from 2022 admitted batch and (ii) replaced the phrase “3xx 
+or above in the last four -semester ” with “3xx or above ” which will be applicable from 
+ongoing batch. (Ref: 61st Senate) 
+(v) Clarification added for BTP in line with guidelines 
+ 
+ 
+ 
+ 
+Appendix: Streams 
+ 
+In order to allow students to make informed choices about elective courses, a set of streams is envisaged 
+­ which is a sequence of at least three courses. Streams are merely suggestive, and there is no 
+compulsion on the part of the student to follow a sequence. The streams and courses listed below are 
+some possibilities. They may change based on the availability of faculty and student interest. 
+ 
+Stream* 
+Courses 
+ 
+Pure Mathematics 
+Analysis II, Functional Analysis, Abstract 
+Algebra II, Graph Theory 
+ 
+Algebra and Computation 
+Abstract Algebra II, Coding Theory, Algebra and 
+Computation, Information Theory 
+ 
+Algorithms and Complexity 
+Modern Algorithm Design, Randomized Algorithms, 
+Approximation algorithms, Complexity Theory, 
+Quantum Computing, Information Theory, Fourier 
+analysis and applications. 
+ 
+Optimization 
+Linear Optimization, Convex Optimization, Combinatorial 
+Optimization, Game Theory, Algorithmic Game Theory, 
+Supply Chains, Reliability and Performance Analysis 
+ 
+Statistics and Data Science 
+Statistical Computations, Machine Learning, Pattern 
+Recognition, Random Networks, Big Data Analytics, 
+Statistical Computing, Data Mining, Estimation Theory, 
+Regression, Sampling, Information Theory 
+ 
+Biology 
+Molecular Biology and Biochemistry, Algorithms in 
+Computational Biology, Systems Biology 
+8 
+ 
+Economics 
+Micro Economics, Applied 
+Econometric Analysis, Game Theory 
+ 
+Applied Mathematics Mechanics, Physics, Fluid Mechanics and 
+Computational Fluid Dynamics 
+ 
+*Note: Streams in the UG programs has now been discontinued. It will not be shown on the 
+transcript. However, the students may be guided about the courses belonging to a certain area 
+during the course counseling session conducted at the beginning of the semester. Guidance on 
+streams should also be put on the website for information of the students.

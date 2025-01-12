@@ -1,0 +1,49 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Regulation  for Minor  in Computational  Biology  (CB)  
+ 
+Minor  Program:  
+ 
+A BTech student can earn a minor certification in computational biology by completing 16 credits of  
+regular  courses,  and further  4 credits  through  additional  coursework,  independent  study  (IS), 
+undergraduate research (UR), or independent project (IP), or 8 credits of BTP on a core Computational  
+Biology  topic,  with prior  approval  by CB UG Coordinator,  for a cumulative  20/24  credits  in 
+Computational Biology. The program is intended to be complementary to CSE/ECE/CSAM/CSD/CSSS,  
+and emphasizes on the foundations of cell and molecular biology, biochemistry, genetics, mathematical  
+biology,  systems  biology  and computational  genomics.  Students  pursuing  BTec h in CSB  cannot  opt for a 
+Minor  in Computational  Biology.  
+ 
+Courses : All courses  are for 4 credits,  except  IQB,  and require  3rd year standing  or higher.  
+1. Introduction to Quantitative Biology (IQB) : Foundation course consisting of fundamental aspects  
+of cellular  and molecular  studied  by quantitative  approaches  as well as simple  
+mathematical/statistical  and computational tools.  
+ 
+2. Any 3 BIO -numbered (3xx to 6xx) course (except FOMB/IP/IS/UR/BTP/BIOX71 —BIOX80) as  
+long as pre -requisites are fulfilled.  
+ 
+ 
+Core  Courses : IQB,  listed  above,  is mandatory  for the minor  degree.  
+ 
+Recommended  sequence  of courses : IQB is recommended  as the first course  for the minor  in 
+computational  biology.  
+ 
+Note: One course should not count towards two minors.  
+ 
+Change  History:  
+July,  2014  release, Version 1  
+July,  2018  release, Version 2  
+ 
+May 2024 release  
+one course should not count towards two minors  (Ref: 51st Senate decision)  
+ 
+ 
+ 
+ 
+ 
+1 
+
