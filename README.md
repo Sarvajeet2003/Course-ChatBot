@@ -6,9 +6,7 @@ A Streamlit-based application that allows users to upload PDF files and ask ques
 
 ## 🎬 Demo
 
-![Demo GIF](Assets/demo.gif)
-
-*Click [here](https://github.com/Sarvajeet2003/Course-ChatBot/blob/main/Assets/Demo.mp4) to download and view the full demo video*
+https://github.com/Sarvajeet2003/Course-ChatBot/blob/main/Assets/Demo.mp4
 
 ## 🌟 Features
 
